@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<testcase>
+  <teststep name="name" priority="priority" component="component">description</teststep>
+  <teststep name="name1" priority="priority1" component="component1">description1</teststep>
+  <teststep name="name2" priority="priority2" component="component2">description2</teststep>
+  <teststep name="name3" priority="priority3" component="component3">description3</teststep>
+</testcase>
